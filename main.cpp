@@ -14,5 +14,5 @@ int main() {
     return 0;
 }
 
-// Johannalle lahja 18-05-2025
 // Christmas season my love <333
+// Oman elämäni herra, -kube
