@@ -15,4 +15,4 @@ int main() {
 }
 
 // Christmas season my love <333
-// Oman elämäni herra, -kube
+// Oman elämäni herra -kube
