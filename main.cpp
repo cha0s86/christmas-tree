@@ -14,5 +14,4 @@ int main() {
     return 0;
 }
 
-// Christmas season my love <333
-// Oman elämäni herra -kube
+// Christmas season, my dear coders! Spread happiness and joy!
